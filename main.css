@@ -1,0 +1,110 @@
+body{
+  background-image: url("http://alltiras.com/p/2018/11/restaurant-menu-background-printables-and-menu-throughout-food-menu-background-hd-887x554.jpg");
+  background-position: center center ; 
+  background-size: cover;
+  background-attachment: fixed;
+}
+.header{
+  margin-left: 25rem;
+    align-items: center;
+    font-size: 2.3rem;
+    font-style: italic;
+}
+
+.ingredients{
+  
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  max-width: 1000px;
+  margin-left: 7rem;
+  margin-top: 2rem;
+  margin-right: 5rem;
+
+}
+
+.bread{
+
+  background-image:url("https://i0.wp.com/www.healthline.com/hlcmsresource/images/AN_images/ezekiel-bread-1296x728-feature.jpg?w=1155&h=1528");
+  background-position: center center ; 
+  background-size: cover;
+  background-attachment: fixed;
+  border: 2px solid black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: 100% 100%;
+}
+.Meat{
+  background-image: url("http://lancomeats-deli.com/core/wp-content/uploads/2013/07/8_23_Lancaster_Meats-49-1140x300.jpg");
+  background-position: center center ; 
+  background-size: cover;
+  background-attachment: fixed;
+  border: 2px solid black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: 100% 100%;
+}
+
+.cheese{
+  background-image: url("http://www.smokymtbarbecue.com/barbeque-blog/wp-content/uploads/2010/12/cheese_blocks.jpg");
+  background-position: center center ; 
+  background-size: cover;
+  background-attachment: fixed;
+  border: 2px solid black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: 100% 100%;
+}
+
+.veggies{
+  background-image: url("https://s24597.pcdn.co/wp-content/uploads/2018/05/5D4B0370-Grilled-veggies-salad-with-grilled-vidalia-onion-dressing-seasoned-and-baked-carrots-red-onion-broccoli-red-bell-pepper-yellow-bell-pepper-zucchini-on-a-baking-sheet-768x512.jpg");
+  background-position: center center ; 
+  background-size: cover;
+  background-attachment: fixed;
+  border: 2px solid black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: 100% 100%;
+
+}
+
+.condiments{
+  background-image: url("https://t4.ftcdn.net/jpg/02/49/71/57/500_F_249715704_hcnzJW53lEnSAno4xzB3qkITSydDuBXS.jpg");
+  background-position: center center ; 
+  background-size: cover;
+  background-attachment: fixed;
+  border: 2px solid black;
+  padding: 25px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-size: 100% 100%;
+
+}
+#order{
+  padding: 14px 40px;
+  color: red;
+  margin-top: 2rem;
+  align-content: center;
+  margin-left: 30rem;
+ font-size: x-large;
+ background-color: darkkhaki;
+}
+#ordertotal{
+  background-image: url("http://subwayak.com/wp-content/uploads/2015/04/Subway-Catering-Sandwich.jpg");
+  height: 200px;
+  width: 200px;
+  font-size: 1.5rem;
+  margin-left: 28rem;
+  margin-top: 2rem;
+  margin-top: 4rem;
+  text-align-last: center;
+}
+
+
+
+
+
+
