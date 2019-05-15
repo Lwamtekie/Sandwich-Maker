@@ -1,8 +1,8 @@
 const veggies_plural = {
-  tomato : 1.61,
-  lettuce: 1.42,
-  pickles: 1.44,
-  onion: 1.17
+  Cucumber : 1.00,
+  lettuce: 1.11,
+  pickles: 1.12,
+  Avocado : 1.13
 };
 
 

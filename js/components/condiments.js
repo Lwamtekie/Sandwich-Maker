@@ -1,8 +1,8 @@
 const condiments_plural = {
-  salt: 1.50,
-  pepper: 1.31,
-  oil: 1.33,
-  vinegar: 1.06
+  Mayonnaise: 1.32,
+  Tahini: 1.34,
+  Hummus: 1.23,
+  Miso: 1.25
 };
 
 
