@@ -1,8 +1,8 @@
-const veggies_plural = {
-  tomato : 1.61,
-  lettuce: 1.42,
-  pickles: 1.44,
-  onion: 1.17
+const veggies = {
+  Arugula : .27,
+  lettuce: .33,
+  Radish: .47,
+  Parsley: .33
 };
 
 

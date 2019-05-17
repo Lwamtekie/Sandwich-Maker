@@ -7,24 +7,26 @@ body{
 .header{
   margin-left: 25rem;
     align-items: center;
-    font-size: 2.3rem;
+    font-size: 2rem;
     font-style: italic;
 }
 
 .ingredients{
   
-  font-size: 1.5rem;
-  margin-top: 2rem;
+  font-size: 2rem;
+  margin-top: 3rem;
   max-width: 1000px;
-  margin-left: 7rem;
-  margin-top: 2rem;
+  margin-left: 12rem;
+  margin-top: 3rem;
   margin-right: 5rem;
-
+  color: black;
+  text-shadow: white 0px 0px 10px;
+        
 }
 
 .bread{
 
-  background-image:url("https://i0.wp.com/www.healthline.com/hlcmsresource/images/AN_images/ezekiel-bread-1296x728-feature.jpg?w=1155&h=1528");
+  background-image:url("https://cdn.cdkitchen.com/images/cats/2/cat-2-720-1.jpg");
   background-position: center center ; 
   background-size: cover;
   background-attachment: fixed;
@@ -33,6 +35,7 @@ body{
   background-repeat: no-repeat;
   background-size: auto;
   background-size: 100% 100%;
+  
 }
 .Meat{
   background-image: url("http://lancomeats-deli.com/core/wp-content/uploads/2013/07/8_23_Lancaster_Meats-49-1140x300.jpg");
@@ -44,10 +47,11 @@ body{
   background-repeat: no-repeat;
   background-size: auto;
   background-size: 100% 100%;
+  
 }
 
 .cheese{
-  background-image: url("http://www.smokymtbarbecue.com/barbeque-blog/wp-content/uploads/2010/12/cheese_blocks.jpg");
+  background-image: url("https://media.mercola.com/ImageServer/Public/2017/March/various-cheeses-fb.jpg");
   background-position: center center ; 
   background-size: cover;
   background-attachment: fixed;
@@ -56,10 +60,11 @@ body{
   background-repeat: no-repeat;
   background-size: auto;
   background-size: 100% 100%;
+  
 }
 
 .veggies{
-  background-image: url("https://s24597.pcdn.co/wp-content/uploads/2018/05/5D4B0370-Grilled-veggies-salad-with-grilled-vidalia-onion-dressing-seasoned-and-baked-carrots-red-onion-broccoli-red-bell-pepper-yellow-bell-pepper-zucchini-on-a-baking-sheet-768x512.jpg");
+  background-image: url("https://irishamerica.com/wp-content/uploads/2015/07/FEATURE-Slainte.veggies.jpg");
   background-position: center center ; 
   background-size: cover;
   background-attachment: fixed;
@@ -68,11 +73,12 @@ body{
   background-repeat: no-repeat;
   background-size: auto;
   background-size: 100% 100%;
+  
 
 }
 
 .condiments{
-  background-image: url("https://t4.ftcdn.net/jpg/02/49/71/57/500_F_249715704_hcnzJW53lEnSAno4xzB3qkITSydDuBXS.jpg");
+  background-image: url("https://i.pinimg.com/originals/44/8b/f2/448bf23008de60517dd90daa210c9e61.jpg");
   background-position: center center ; 
   background-size: cover;
   background-attachment: fixed;
@@ -81,11 +87,17 @@ body{
   background-repeat: no-repeat;
   background-size: auto;
   background-size: 100% 100%;
+  
 
 }
+  
+  
+
+
+
 #order{
   padding: 14px 40px;
-  color: red;
+  color: darkslategrey;
   margin-top: 2rem;
   align-content: center;
   margin-left: 30rem;
@@ -93,17 +105,17 @@ body{
  background-color: darkkhaki;
 }
 #ordertotal{
-  background-image: url("http://subwayak.com/wp-content/uploads/2015/04/Subway-Catering-Sandwich.jpg");
+  background-image: url("http://irepo.primecp.com/1401/46/214717/Giant-Ham-and-Pepper-Salad-Sandwich-OR_ArticleImage-CategoryPage_ID-933789.jpg?v=933789");
   height: 200px;
-  width: 200px;
-  font-size: 1.5rem;
-  margin-left: 28rem;
-  margin-top: 2rem;
-  margin-top: 4rem;
+  width: 390px;
+  font-size: 3rem;
+  margin-left: 23rem;
   text-align-last: center;
+  padding-top: 4rem;
+  margin-top: 2rem;
+  font-style: oblique;
+  
 }
-
-
 
 
 
