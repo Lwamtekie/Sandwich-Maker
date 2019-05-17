@@ -1,8 +1,8 @@
-const condiments_plural = {
-  salt: 1.50,
-  pepper: 1.31,
-  oil: 1.33,
-  vinegar: 1.06
+const condiments = {
+  ChipotleMayonnaise: .50,
+  Pesto: .75,
+  TonkatsuSauce: .86,
+  GreekYogurt: .99
 };
 
 
