@@ -14,7 +14,6 @@ import veggies from "../components/veggies.js";
  }
  const getTotal = () => {
      let domString =`<div>$${total}</div>`;
-     console.error (total)
      printToDom ("ordertotal",domString);
  };
  
