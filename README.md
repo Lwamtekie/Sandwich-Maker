@@ -16,7 +16,7 @@
 
 #How To Run
   Clone this repository
-  git clone https://github.com/samueltrejo/sandwhich-maker.git
+  git clone https://github.com/Lwamtekie/sandwich-maker
   Go into the repository
   cd personal-site
   Run http server

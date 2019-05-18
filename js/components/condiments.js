@@ -1,8 +1,8 @@
-const condiments_plural = {
-  Mayonnaise: 1.32,
-  Tahini: 1.34,
-  Hummus: 1.23,
-  Miso: 1.25
+const condiments = {
+  ChipotleMayonnaise: .50,
+  Pesto: .75,
+  TonkatsuSauce: .86,
+  GreekYogurt: .99
 };
 
 
