@@ -7,12 +7,14 @@
   
 
 #Technologies Used
+  
   html, css and javascript
   modular javascript
   import and export to pass information between modules
   more secure information approach
 
 #How To Run
+  
   Clone this repository
   git clone https://github.com/Lwamtekie/sandwicth-maker
   Go into the repository
@@ -20,6 +22,8 @@
   Run http server
   hs -p 5000
 
-#Author: Lwam Tekie
+#Author: 
+
+Lwam Tekie
 
 
