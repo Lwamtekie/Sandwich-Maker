@@ -1,8 +1,8 @@
-const veggies_plural = {
-  Cucumber : 1.00,
-  lettuce: 1.11,
-  pickles: 1.12,
-  Avocado : 1.13
+const veggies = {
+  Arugula : .27,
+  lettuce: .33,
+  Radish: .47,
+  Parsley: .33
 };
 
 
