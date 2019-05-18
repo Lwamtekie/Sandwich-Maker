@@ -3,6 +3,10 @@
   "The Foodie Club" is similar with the  online checkout style cart. it helps to secure the final price by passing information through modules.
 
 # Screenshot 
+  ![image1]()
+  ![image2]()
+
+
 
 #Technologies Used
   html, css and javascript
