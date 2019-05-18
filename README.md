@@ -6,14 +6,14 @@
   ![image1](https://raw.githubusercontent.com/Lwamtekie/sandwich-maker/master/screenshot/screencapture-127-0-0-1-8080-2019-05-16-23_38_05.png)
   
 
-#Technologies Used
+#Technologies Used:
   
   html, css and javascript
   modular javascript
   import and export to pass information between modules
   more secure information approach
 
-#How To Run
+#How To Run:
   
   Clone this repository
   git clone https://github.com/Lwamtekie/sandwicth-maker
